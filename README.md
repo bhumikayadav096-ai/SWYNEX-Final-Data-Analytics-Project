@@ -1,20 +1,3 @@
-📁 SWYNEX-Final-Data-Analytics-Project
-
-├── 📄 README.md
-│
-├── 📁 data
-│   ├── 📄 rainfall_cleaned.csv
-│   ├── 📄 rainfall in india 1901-2015.csv
-│   └── 📄 district wise rainfall normal.csv
-│
-├── 📁 dashboard
-│   └── 📊 India Rainfall Analytics.pbix
-│
-└── 📁 screenshots
-    ├── 🖼️ dashboard.png
-    ├── 🖼️ yearly_trend.png
-    └── 🖼️ monthly_analysis.png
-    
 # India Rainfall Analytics Dashboard
 
 ## 1. Problem Statement
